@@ -9,7 +9,7 @@
 }
 
 .position {
-	font-size: 1.2em;
+	font-size: 1.1em;
 	font-weight: 600;
 }
 
@@ -18,13 +18,21 @@
 	color: #7DF4FF;
 }
 
+#sidebar h1 {
+	font-size: 1.6em;
+}
+
+#sidebar h3 {
+	font-size: 1.3em;
+}
+
 .social-links > a{
 	color: #fff !important;
 	font-size: 1.1em;
 }
 
 #bio {
-	padding-top: 20px;
+	padding-top: 5px;
 }
 
 #bio p {
@@ -49,4 +57,8 @@ a.navbar-text {
 	background-color: #5bc0de;
 	color: #fff;
 	border-color: #5bc0de;
+}
+
+.keywords {
+	line-height: 25px;
 }
