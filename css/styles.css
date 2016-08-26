@@ -9,7 +9,12 @@ html, body {
 }
 
 a {
-  color:#222222;
+  color:#5bc0de;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #5bc0de;
 }
 
 .wrapper, .row {
