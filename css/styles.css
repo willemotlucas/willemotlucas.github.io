@@ -50,7 +50,7 @@ a:hover {
     position: absolute;
     right: 0;
     top: 0;
-    background-image:url('../images/background.png');
+    background-image:url('../images/background.jpg');
     background-size:cover;
     background-attachment:fixed;
 }
